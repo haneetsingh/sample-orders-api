@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "Over-ear headphones with built-in microphone for hands-free calling and noise-canceling technology.",
+      "price": 59.99,
+      "brand": "TechBeats",
+      "category": "Electronics",
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Men's Classic Watch",
+      "description": "Stylish stainless steel watch with analog display and water-resistant design.",
+      "price": 79.99,
+      "brand": "TimeMaster",
+      "category": "Watches",
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Women's Leather Handbag",
+      "description": "High-quality leather handbag with multiple compartments and adjustable shoulder strap.",
+      "price": 129.99,
+      "brand": "FashionGlam",
+      "category": "Fashion",
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Smart LED TV",
+      "description": "55-inch 4K Ultra HD Smart LED TV with built-in Wi-Fi and streaming apps.",
+      "price": 699.99,
+      "brand": "VisionX",
+      "category": "Electronics",
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "name": "Wireless Gaming Mouse",
+      "description": "Ergonomic gaming mouse with customizable RGB lighting and adjustable DPI settings.",
+      "price": 49.99,
+      "brand": "GameMaster",
+      "category": "Gaming",
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Portable Bluetooth Speaker",
+      "description": "Compact and waterproof Bluetooth speaker with powerful sound output.",
+      "price": 39.99,
+      "brand": "SoundWave",
+      "category": "Electronics",
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Fitness Tracker Watch",
+      "description": "Fitness tracker with heart rate monitor, sleep tracking, and smartphone notifications.",
+      "price": 49.99,
+      "brand": "FitTech",
+      "category": "Fitness",
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "name": "Men's Running Shoes",
+      "description": "Breathable mesh running shoes with cushioned sole for maximum comfort.",
+      "price": 89.99,
+      "brand": "RunPro",
+      "category": "Sports",
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "name": "Women's Yoga Leggings",
+      "description": "High-waisted yoga leggings made of stretchy and moisture-wicking fabric.",
+      "price": 29.99,
+      "brand": "YogaFlex",
+      "category": "Fitness",
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "id": 10,
+      "name": "Digital Camera",
+      "description": "20MP digital camera with 5x optical zoom, HD video recording, and built-in Wi-Fi connectivity.",
+      "price": 199.99,
+      "brand": "SnapShot",
+      "category": "Electronics",
+      "availability": true,
+      "rating": 4.6
+    }
+  ]
+}
